@@ -29,7 +29,14 @@ body {
 
 .location-icon {
   font-size: 2rem;
+}
+
+.fire {
   color: red;
+}
+
+.storm{
+  color: rgb(14, 14, 202);
 }
 
 .loader {
