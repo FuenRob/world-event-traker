@@ -18,8 +18,8 @@ const Map = ({ eventData, center, zoom }) => {
         } else if (ev.categories[0].id === 10) {
             return <LocationMarker 
                 type="storm"
-                lat={ ev.geometries[0].coordinates[1] } 
-                lng={ ev.geometries[0].coordinates[0] } 
+                lat={ ev.geometries[ev.geometries.length - 1].coordinates[1] } 
+                lng={ ev.geometries[ev.geometries.length - 1].coordinates[0] } 
                 onClick={() => setLocationInfo({ id: ev.id, title: ev.title })}
             />
         }
