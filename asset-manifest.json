@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/world-event-traker/static/css/main.f4f745a8.chunk.css",
-    "main.js": "/world-event-traker/static/js/main.bf6b3437.chunk.js",
-    "main.js.map": "/world-event-traker/static/js/main.bf6b3437.chunk.js.map",
+    "main.css": "/world-event-traker/static/css/main.99e4742a.chunk.css",
+    "main.js": "/world-event-traker/static/js/main.f7130bab.chunk.js",
+    "main.js.map": "/world-event-traker/static/js/main.f7130bab.chunk.js.map",
     "runtime-main.js": "/world-event-traker/static/js/runtime-main.12f2ce5a.js",
     "runtime-main.js.map": "/world-event-traker/static/js/runtime-main.12f2ce5a.js.map",
     "static/js/2.9d8c6945.chunk.js": "/world-event-traker/static/js/2.9d8c6945.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.3c125d17.chunk.js": "/world-event-traker/static/js/3.3c125d17.chunk.js",
     "static/js/3.3c125d17.chunk.js.map": "/world-event-traker/static/js/3.3c125d17.chunk.js.map",
     "index.html": "/world-event-traker/index.html",
-    "static/css/main.f4f745a8.chunk.css.map": "/world-event-traker/static/css/main.f4f745a8.chunk.css.map",
+    "static/css/main.99e4742a.chunk.css.map": "/world-event-traker/static/css/main.99e4742a.chunk.css.map",
     "static/js/2.9d8c6945.chunk.js.LICENSE.txt": "/world-event-traker/static/js/2.9d8c6945.chunk.js.LICENSE.txt",
     "static/media/spinner.1a32f552.gif": "/world-event-traker/static/media/spinner.1a32f552.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.12f2ce5a.js",
     "static/js/2.9d8c6945.chunk.js",
-    "static/css/main.f4f745a8.chunk.css",
-    "static/js/main.bf6b3437.chunk.js"
+    "static/css/main.99e4742a.chunk.css",
+    "static/js/main.f7130bab.chunk.js"
   ]
 }
