@@ -76,3 +76,10 @@ body {
 .location-info li {
   padding: 5px 0;
 }
+
+@media (max-width: 767px) {
+  .location-info{
+    right: 0px;
+    width: 89%;
+  }  
+}
