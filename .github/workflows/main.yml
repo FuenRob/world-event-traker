@@ -26,5 +26,4 @@ jobs:
           BRANCH: gh-pages
           FOLDER: build
           BUILD_SCRIPT: yarn && yarn run build
-        env:
           API_GOOGLE_MAP: ${{ secrets.API_GOOGLE_MAP }}
