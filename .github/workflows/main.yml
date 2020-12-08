@@ -18,6 +18,8 @@ jobs:
         run: |
           npm install
           npm run build
+        env:
+          API_GOOGLE_MAP: ${{ secrets.API_GOOGLE_MAP }}
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.6.2
@@ -25,5 +27,3 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
           FOLDER: build
-        env:
-          API_GOOGLE_MAP: ${{ secrets.API_GOOGLE_MAP }}
